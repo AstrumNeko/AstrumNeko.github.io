@@ -2,129 +2,129 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/en/about/</loc>
+    <loc>https://astrumneko.github.io/en/about/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/about/"
+                href="https://astrumneko.github.io/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/about/"
+                href="https://astrumneko.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://example.org/en/</loc>
+    <loc>https://astrumneko.github.io/en/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/"
+                href="https://astrumneko.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/"
+                href="https://astrumneko.github.io/en/"
                 />
   </url><url>
-    <loc>https://example.org/en/links/</loc>
+    <loc>https://astrumneko.github.io/en/links/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/links/"
+                href="https://astrumneko.github.io/zh-cn/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/links/"
+                href="https://astrumneko.github.io/en/links/"
                 />
   </url><url>
-    <loc>https://example.org/en/posts/</loc>
+    <loc>https://astrumneko.github.io/en/posts/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/posts/"
+                href="https://astrumneko.github.io/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/posts/"
+                href="https://astrumneko.github.io/en/posts/"
                 />
   </url><url>
-    <loc>https://example.org/en/posts/hello_world/</loc>
+    <loc>https://astrumneko.github.io/en/posts/hello_world/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/posts/hello_world/"
+                href="https://astrumneko.github.io/zh-cn/posts/hello_world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/posts/hello_world/"
+                href="https://astrumneko.github.io/en/posts/hello_world/"
                 />
   </url><url>
-    <loc>https://example.org/en/archives/</loc>
+    <loc>https://astrumneko.github.io/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/archives/"
+                href="https://astrumneko.github.io/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/archives/"
+                href="https://astrumneko.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https://example.org/en/categories/</loc>
+    <loc>https://astrumneko.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/categories/"
+                href="https://astrumneko.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/categories/"
+                href="https://astrumneko.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://example.org/en/search/</loc>
+    <loc>https://astrumneko.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/search/"
+                href="https://astrumneko.github.io/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/search/"
+                href="https://astrumneko.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://example.org/en/series/</loc>
+    <loc>https://astrumneko.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/series/"
+                href="https://astrumneko.github.io/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/series/"
+                href="https://astrumneko.github.io/en/series/"
                 />
   </url><url>
-    <loc>https://example.org/en/tags/</loc>
+    <loc>https://astrumneko.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/tags/"
+                href="https://astrumneko.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/tags/"
+                href="https://astrumneko.github.io/en/tags/"
                 />
   </url>
 </urlset>
